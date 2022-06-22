@@ -4,6 +4,7 @@ For setting up Android device:
 Protonmail .apk: https://protonapps.com/protonmail-android
 
 On fdroid:
+```
 Jisti
 Telegram
 Insular
@@ -23,3 +24,4 @@ Orbot
 Tor Browser
 OpenVPN
 MullvadVPN
+```
